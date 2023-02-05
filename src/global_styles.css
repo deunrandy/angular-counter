@@ -1,0 +1,27 @@
+/* Add application styles & imports to this file! */
+span.negative{
+  color: red;
+}
+
+span.positive {
+  color: green;
+}
+
+.button-group {
+  display: flex;
+  gap: 10px;
+}
+
+button {
+  padding: 10px;
+}
+
+.modify-btn.negative{
+  background-color: red;
+  color: white;
+}
+
+.modify-btn.positive {
+  background-color: green;
+  color: white;
+}
